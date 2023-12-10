@@ -16,3 +16,4 @@ export const exercicio2 = (data : string): string =>{
     
    return dataFormada
 }
+
